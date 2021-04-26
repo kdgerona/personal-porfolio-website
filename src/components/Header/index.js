@@ -4,10 +4,10 @@ import { HeaderContainer, HeaderNav } from './styles'
 const Header = () => {
     return (
         <HeaderContainer>
-            <HeaderNav href='#home'>Home</HeaderNav>
-            <HeaderNav href='#home'>About</HeaderNav>
-            <HeaderNav href='#home'>Resume</HeaderNav>
-            <HeaderNav href='#home'>Contact</HeaderNav>
+            <HeaderNav href='#home'>HOME</HeaderNav>
+            <HeaderNav href='#about'>ABOUT</HeaderNav>
+            <HeaderNav href='#resume'>RESUME</HeaderNav>
+            <HeaderNav href='#contact'>CONTACT</HeaderNav>
         </HeaderContainer>
     )
 }
