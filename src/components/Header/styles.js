@@ -2,11 +2,18 @@ import styled from 'styled-components'
 
 export const HeaderContainer = styled.div`
     display: flex;
-    height: 10vh;
     background-color: transparent;
     justify-content: center;
     align-items: center;
+    padding: 0 10%;
 `
 export const HeaderNav = styled.a`
-    padding: 10px
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+
+    :hover {
+        color: #fe6928;
+    }
 `
