@@ -4,6 +4,7 @@ export const AboutContainer = styled.div`
     display: flex;
     background-color: #000524;
     padding: 5% 10%;
+    overflow: hidden;
 `
 
 export const ProfileSection = styled.div`
