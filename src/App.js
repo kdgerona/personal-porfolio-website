@@ -5,6 +5,7 @@ import {
   Header,
   Home,
   About,
+  Footer
 } from './components'
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <Home/>
       <About />
+      <Footer />
     </div>
   );
 }

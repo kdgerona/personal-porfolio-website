@@ -6,8 +6,8 @@ const Header = () => {
         <HeaderContainer>
             <HeaderNav href='#home'>HOME</HeaderNav>
             <HeaderNav href='#about'>ABOUT</HeaderNav>
-            <HeaderNav href='#resume'>RESUME</HeaderNav>
-            <HeaderNav href='#contact'>CONTACT</HeaderNav>
+            <HeaderNav href='#skills'>SKILLS</HeaderNav>
+            <HeaderNav href='#portfolio'>PORTFOLIO</HeaderNav>
         </HeaderContainer>
     )
 }
