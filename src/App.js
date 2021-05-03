@@ -5,7 +5,8 @@ import {
   Header,
   Home,
   About,
-  Footer
+  Footer,
+  Skills,
 } from './components'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Header/>
       <Home/>
       <About />
+      <Skills />
       <Footer />
     </div>
   );
