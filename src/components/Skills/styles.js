@@ -1,31 +1,39 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const SkillsContainer = styled.div`
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-    background-color: #fff;
-    padding: 5% 10%;
-`
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  background-color: #fff;
+  padding: 5% 10%;
+`;
 
 export const HeadingText = styled.h2`
-    margin: 0;
-    font-style: italic;
-    padding-bottom: 10px;
-`
+  margin: 0;
+  font-style: italic;
+  padding-bottom: 10px;
+`;
 
 export const LogoContainer = styled.div`
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-`
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+`;
 
 export const LogoImg = styled.img`
-    width: 10%;
-    padding: 10px;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  -webkit-transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  -moz-transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  -o-transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 
-    :hover {
-        width: 11%;
-    }
-`
+  :hover {
+    cursor: pointer;
+    transform: scale(1.25);
+    -webkit-transform: scale(1.25);
+    -moz-transform: scale(1.25);
+    -o-transform: scale(1.25);
+  }
+`;
