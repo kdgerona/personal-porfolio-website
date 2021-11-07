@@ -58,7 +58,8 @@ export const NavigateUpIcon = styled(FontAwesomeIcon)`
 `
 
 export const CopyrightFullText = styled.p`
-    color: #303030;
+    /* color: #303030; */
+    color: whitesmoke;
     font-size: 14px;
     margin: 0;
 `

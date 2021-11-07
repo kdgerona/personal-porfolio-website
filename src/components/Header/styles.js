@@ -1,11 +1,13 @@
 import styled from 'styled-components'
 
 export const HeaderContainer = styled.div`
-    display: flex;
-    background-color: transparent;
+    /* display: flex; */
+    display: ${props => props.show ? 'flex' : 'none' };
+    background-color: ${props => props.active ? '#333' : 'transparent' };
     justify-content: center;
     align-items: center;
-    padding: 0 10%;
+    width: 100%;
+    position: fixed;
 `
 export const HeaderNav = styled.a`
     color: white;

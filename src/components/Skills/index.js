@@ -16,15 +16,13 @@ const importAll = (r) => r.keys().map(filename => ({
 
 const images = importAll(require.context('../../assets/images/technology-logo', false, /\.(png|jpe?g|svg)$/));
 
-console.log(images[0])
-
 const Skills = () => {
     return (
         <SkillsContainer id='skills'>
             <HeadingText>Skills and technologies used ...</HeadingText>
             <LogoContainer>
                 {
-                    images.map(image => (<LogoImg src={image.static_path} alt={image.filename}/>))
+                    images.map((image, index) => (<LogoImg key={index} src={image.static_path} alt={image.filename}/>))
                 }
             </LogoContainer>
         </SkillsContainer>

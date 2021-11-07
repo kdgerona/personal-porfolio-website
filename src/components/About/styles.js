@@ -55,6 +55,7 @@ export const DownloadResumeLink = styled.a`
     line-height: 30px;
     width: 30%;
     background-color: darkgreen;
+    text-decoration: none;
 `
 
 export const DownloadResumeIcon = styled(FontAwesomeIcon)`
