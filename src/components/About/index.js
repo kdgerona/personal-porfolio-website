@@ -24,7 +24,7 @@ const About = () => {
             <DetailsSection>
                 <AboutHeading>About Me</AboutHeading>
                 <AboutContent>
-                Hello there! I am Kevin Dave Gerona a Front-End Software Engineer. I have progressive work and experience in the industry as a professional, contributing my skills and academic knowledge. Managed and multitasking different kinds of projects handling both Frontend and Backend Development as well as can work on Cross Platform Development. Gained knowledge, standards and new technologies through work experiences.
+                Hello there! I am Kevin Dave Gerona a Full Stack Developer. I have progressive work and experience in the industry as a professional, contributing my skills and academic knowledge. Managed and multitasking different kinds of projects handling both Frontend and Backend Development as well as can work on Cross Platform Development. Gained knowledge, standards and new technologies through work experiences.
                 </AboutContent>
                 <AboutHeading>Contact Details</AboutHeading>
                 <AboutContent>Kevin Dave Gerona</AboutContent>
