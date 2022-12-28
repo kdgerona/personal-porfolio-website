@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1edd0739.chunk.css",
-    "main.js": "/portfolio/static/js/main.2943ffd0.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2943ffd0.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.87ceeb13.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.87ceeb13.js.map",
-    "static/js/2.e21db045.chunk.js": "/portfolio/static/js/2.e21db045.chunk.js",
-    "static/js/2.e21db045.chunk.js.map": "/portfolio/static/js/2.e21db045.chunk.js.map",
-    "static/js/3.913fd4b7.chunk.js": "/portfolio/static/js/3.913fd4b7.chunk.js",
-    "static/js/3.913fd4b7.chunk.js.map": "/portfolio/static/js/3.913fd4b7.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.c2068b7b.chunk.css",
+    "main.js": "/portfolio/static/js/main.8d524674.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8d524674.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.3a0e7867.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.3a0e7867.js.map",
+    "static/js/2.5d2417b9.chunk.js": "/portfolio/static/js/2.5d2417b9.chunk.js",
+    "static/js/2.5d2417b9.chunk.js.map": "/portfolio/static/js/2.5d2417b9.chunk.js.map",
+    "static/js/3.4949cf4e.chunk.js": "/portfolio/static/js/3.4949cf4e.chunk.js",
+    "static/js/3.4949cf4e.chunk.js.map": "/portfolio/static/js/3.4949cf4e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.1edd0739.chunk.css.map": "/portfolio/static/css/main.1edd0739.chunk.css.map",
-    "static/js/2.e21db045.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e21db045.chunk.js.LICENSE.txt",
+    "static/css/main.c2068b7b.chunk.css.map": "/portfolio/static/css/main.c2068b7b.chunk.css.map",
+    "static/js/2.5d2417b9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5d2417b9.chunk.js.LICENSE.txt",
     "static/media/cassandra.png": "/portfolio/static/media/cassandra.694c1a2c.png",
     "static/media/docker.png": "/portfolio/static/media/docker.c8ed386f.png",
     "static/media/express.png": "/portfolio/static/media/express.915b8962.png",
@@ -26,6 +26,7 @@
     "static/media/linux.png": "/portfolio/static/media/linux.cc71b713.png",
     "static/media/mongodb.png": "/portfolio/static/media/mongodb.62f6b1e4.png",
     "static/media/mysql.png": "/portfolio/static/media/mysql.167c8855.png",
+    "static/media/nestjs.png": "/portfolio/static/media/nestjs.48e76396.png",
     "static/media/nginx.png": "/portfolio/static/media/nginx.0c45a001.png",
     "static/media/nodejs.png": "/portfolio/static/media/nodejs.c2e22c63.png",
     "static/media/php.png": "/portfolio/static/media/php.d947e22a.png",
@@ -37,9 +38,9 @@
     "static/media/typescript.png": "/portfolio/static/media/typescript.29073194.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.87ceeb13.js",
-    "static/js/2.e21db045.chunk.js",
-    "static/css/main.1edd0739.chunk.css",
-    "static/js/main.2943ffd0.chunk.js"
+    "static/js/runtime-main.3a0e7867.js",
+    "static/js/2.5d2417b9.chunk.js",
+    "static/css/main.c2068b7b.chunk.css",
+    "static/js/main.8d524674.chunk.js"
   ]
 }
