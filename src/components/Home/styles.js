@@ -37,10 +37,13 @@ export const SocialLinkButton = styled.a`
     align-items: center;
     background-color: #34495e;
     color: white;
-    padding: 18%;
+    padding: 15%;
     margin: 10%;
     font-weight: bold;
     text-decoration: none;
+
+    border: 1px solid #34495e;
+    border-radius: 10px;
 `
 
 export const SocialLinkIcon = styled(FontAwesomeIcon)`
@@ -62,4 +65,10 @@ export const ScrollDownButtonIcon = styled(FontAwesomeIcon)`
     :hover {
         color: blue;
     }
+`
+
+export const SpanBold = styled.span`
+    font-size: calc(100% + .5vw);
+    color: white;
+    font-weight: 900;
 `

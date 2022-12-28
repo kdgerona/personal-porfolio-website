@@ -14,6 +14,7 @@ import {
     ScrollDownButtonLink,
     ScrollDownButtonIcon,
     SocialLinkIcon,
+    SpanBold
 } from './styles'
 
 const Home = () => {
@@ -22,7 +23,7 @@ const Home = () => {
         <ParticlesBg type='polygon' color='#ff0000' bg={true}/>
         <HomeContainer id='home'>
             <Name>Kevin Dave Gerona</Name>
-            <Introduction>I am a Front-End Software Engineer and I use ReactJS for web applications and Flutter for mobile applications. This project is my personal portfolio.</Introduction>
+            <Introduction>I am a <SpanBold>Full Stack Developer</SpanBold> and I'm divergent in different technologies. Welcome to my domain of the internet. Let's start building!</Introduction>
             <HorizontalDivider />
             <SocialContainer>
                 <SocialLinkButton href='https://www.linkedin.com/in/kevindavegerona' target="_blank"><SocialLinkIcon icon={faLinkedinIn} />LinkedIn</SocialLinkButton>

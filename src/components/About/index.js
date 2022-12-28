@@ -30,8 +30,7 @@ const About = () => {
                 <AboutContent>Kevin Dave Gerona</AboutContent>
                 <AboutContent>Zamora St. Centro</AboutContent>
                 <AboutContent>Mandaue City Philippines, 6014</AboutContent>
-                <AboutContent className='highlight'>+639557262300</AboutContent>
-                <AboutContent className='highlight'>kevindavegerona@gmail.com</AboutContent>
+                <AboutContent className='highlight'>kevindavegerona@gmail.com / +639557262300</AboutContent>
                 <DownloadResumeLink href='' download="Kevin Dave Gerona - Resume"><DownloadResumeIcon icon={faDownload} />Resume / CV</DownloadResumeLink>
             </DetailsSection>
         </AboutContainer>

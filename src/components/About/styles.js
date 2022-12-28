@@ -32,9 +32,10 @@ export const DetailsSection = styled.div`
     width: 100%;
 
     .highlight {
-        background-color: yellow;
-        color: black;
-        padding: 0 1%;
+        // background-color: yellow;
+        // color: black;
+        // padding: 0 1%;
+        font-style: italic;
     }
 `
 
@@ -54,8 +55,12 @@ export const DownloadResumeLink = styled.a`
     margin: 2% 0;
     line-height: 30px;
     width: 30%;
-    background-color: darkgreen;
+    // background-color: darkgreen;
     text-decoration: none;
+
+    border: 1px solid darkgreen;
+    padding: 5px;
+    border-radius: 10px;
 `
 
 export const DownloadResumeIcon = styled(FontAwesomeIcon)`
